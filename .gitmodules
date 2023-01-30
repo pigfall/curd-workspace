@@ -1,0 +1,18 @@
+[submodule "curdboy"]
+	path = curdboy
+	url = git@github.com:pigfall/curdboy.git
+[submodule "ent_utils"]
+	path = ent_utils
+	url = git@github.com:pigfall/ent_utils.git
+[submodule "demo-kratos-curdboy"]
+	path = demo-kratos-curdboy
+	url = git@github.com:pigfall/demo-kratos-curdboy.git
+[submodule "go-kratos-curdboy"]
+	path = go-kratos-curdboy
+	url = git@github.com:pigfall/go-kratos-curdboy.git
+[submodule "react-curdboy"]
+	path = react-curdboy
+	url = git@github.com:pigfall/react-curdboy.git
+[submodule "demo-react-curdboy"]
+	path = demo-react-curdboy
+	url = git@github.com:pigfall/demo-react-curdboy.git
